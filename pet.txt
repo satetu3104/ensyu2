@@ -1,3 +1,5 @@
-dogdog
-catcat
-hamstermouse
+dog
+cat
+mouse
+hamster
+snake
